@@ -19,16 +19,12 @@
 
 ## 📊 GitHub Stats
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramgurav04&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramgurav04&show_icons=true&theme=github_dark)
 
-## 🔥 Streak
+## 📈 Top Languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ramgurav04)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgurav04&layout=compact&theme=github_dark)
 
-## 📈 Most Used Languages
+## 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgurav04&layout=compact)
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/ramgurav04
+![GitHub Streak](https://streak-stats.demolab.com?user=ramgurav04&theme=github-dark)

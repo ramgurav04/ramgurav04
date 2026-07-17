@@ -55,7 +55,7 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgurav04&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgurav04&theme=github-dark-blue&hide_border=true&background=0d1117](https://streak-stats.demolab.com?user=ramgurav04" alt="GitHub Streak" />
 </p>
 
 ---

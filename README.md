@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Ram Gurav
 
-<!--
-**ramgurav04/ramgurav04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Sc. IT Student
+- 💻 Learning Full Stack Development
+- 📚 Preparing for GATE 2027
+- 🌱 Currently learning Java DSA
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramgurav04&show_icons=true)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ramgurav04)
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgurav04&layout=compact)
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/ramgurav04

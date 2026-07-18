@@ -2,13 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+DSA+Learner;GATE+2027+Aspirant;B.Sc.+IT+Student)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://linkedin.com/in/ramgurav04" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/ramgurav04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/ramgurav04" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:ramgurav04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://portfolio.ramgurav.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🎓 **B.Sc. IT Student** passionate about technology
 - 💻 **Full Stack Developer** in the making
-- 📚 Preparing for **GATE 2027**
 - 🌱 Currently learning **Java DSA** & **System Design**
 - 🎯 2026 Goals: Contribute to Open Source & Build 10+ Projects
 
@@ -25,7 +32,7 @@
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +62,7 @@
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgurav04&theme=github-dark-blue&hide_border=true&background=0d1117](https://streak-stats.demolab.com?user=ramgurav04" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ramgurav04&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,6 +91,19 @@
 
 ---
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Java       15 hrs 30 mins  ████████████░░░░░░░░░   60.2%
+JavaScript 6 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.8%
+HTML       2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   10.9%
+CSS        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░    4.1%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -104,13 +124,4 @@
   </a>
 </p>
 
----
-
-## 📊 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
-```text
-Java       15 hrs 30 mins  ████████████░░░░░░░░░   60.2%
-JavaScript 6 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.8%
-HTML       2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░   10.9%
-CSS        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░    4.1%
+<p align="center"><i>⭐️ From <a href="https://github.com/ramgurav04">ramgurav04</a></i></p>

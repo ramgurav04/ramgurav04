@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Gurav</h1>
 
-<h3 align="center">💻 Full Stack Developer | ☕ Java Developer | 🚀 MERN Stack Learner</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner" />
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ramgurav04&label=Profile%20Views&color=0e75b6&style=flat" />
 <img src="https://img.shields.io/github/followers/ramgurav04?label=Followers&style=flat&color=blue"/>

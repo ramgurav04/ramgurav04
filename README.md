@@ -77,14 +77,6 @@ Modern portfolio showcasing projects, experience, and contact details.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramgurav04&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgurav04&layout=compact&hide_border=true&theme=default)
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ramgurav&theme=default&hide_border=true)
-
 </div>
 
 ---

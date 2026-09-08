@@ -7,17 +7,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ramgurav04&style=flat-square&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-gurav-b45453399/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramgurav/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ramgurav.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramgurav04@gmail.com)
 
 </div>
 
-- 🔭 Currently building scalable web applications using the MERN stack
-- 🌱 Mastering Data Structures & Algorithms in Java
+- 🔭 Currently building **AquaExpress**, a Java/Spring Boot inventory & billing app, as my college OJT project
+- 🌱 Practicing Data Structures & Algorithms in Java, including the Blind 75 set
 - 👯 Looking to collaborate on open-source projects
 - 🎯 Preparing for Software Development Engineer (SDE) roles
-- 💬 Ask me about React, Node.js/Express, or Java DSA
-- ⚡ Fun fact: I'd rather debug a legacy codebase than start from a blank file
 - 📧 Reach me at: [ramgurav04@gmail.com](mailto:ramgurav04@gmail.com)
 
 ---
@@ -46,17 +43,16 @@
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Tools & Platforms**
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
@@ -75,26 +71,37 @@
 
 ---
 
-## 💻 Featured Projects
+## 💻 Projects
 
-### [MERN Todo Application](https://github.com/ramgurav04/mern-todo-app)
-Full-stack task management application featuring real-time updates and JWT authentication.
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
-🔗 [Live Demo](https://mern-todo-ram.vercel.app)
+### [AquaExpress Fish Farm](https://github.com/ramgurav04/aquaexpress-fishfarm)
+College OJT project: an inventory and billing system for a friend's ornamental fish breeding business.
+**Tech Stack:** Java, Spring Boot
 
-### [React Image Gallery](https://github.com/ramgurav04/react-image-gallery)
-Interactive image search engine with infinite scrolling, filters, and a lightbox view.
-**Tech Stack:** React, Tailwind CSS, Unsplash API
-🔗 [Live Demo](https://image-gallery-ram.vercel.app)
+### [DSA with Java](https://github.com/ramgurav04/dsa-with-java)
+Ongoing collection of Data Structures & Algorithms solutions in Java.
+**Tech Stack:** Java
 
-### [Java DSA Repository](https://github.com/ramgurav04/java-dsa-practice)
-A collection of 100+ Data Structures and Algorithms solutions with time and space complexity analysis.
-**Topics:** Arrays, Linked Lists, Trees, Dynamic Programming, Graphs
+### [Blind 75 LeetCode](https://github.com/ramgurav04/blind-75-leetcode)
+Solutions to the Blind 75 interview-prep problem set.
+**Tech Stack:** Java
 
-### [Personal Portfolio](https://github.com/ramgurav04/portfolio)
-Modern portfolio showcasing projects, experience, and contact details.
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion
-🔗 [Live Demo](https://ramgurav.dev)
+### [MERN Todo Project](https://github.com/ramgurav04/mern-todo-project)
+Full-stack task management app built on the MERN stack.
+**Tech Stack:** JavaScript, React, Node.js, Express, MongoDB
+
+### [Employee Management System](https://github.com/ramgurav04/Employee-managment-system)
+Web app for managing employee records.
+**Tech Stack:** JavaScript
+
+### [React Basic Gallery](https://github.com/ramgurav04/react-basic-gallery)
+Image gallery UI built with React.
+**Tech Stack:** JavaScript, React
+
+<div align="center">
+
+*See all repositories on my [GitHub profile](https://github.com/ramgurav04?tab=repositories).*
+
+</div>
 
 ---
 
@@ -124,7 +131,6 @@ Modern portfolio showcasing projects, experience, and contact details.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-gurav-b45453399/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramgurav/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ramgurav.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramgurav04@gmail.com)
 
 </div>

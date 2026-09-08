@@ -105,23 +105,6 @@ Image gallery UI built with React.
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgurav04&theme=minimal&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ramgurav04&theme=flat&no-frame=true&column=7&margin-w=8" />
-
-</div>
 
 ---
 

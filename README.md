@@ -4,12 +4,20 @@
 
 **Final Year B.Sc. IT Student &nbsp;|&nbsp; Full Stack Web Developer &nbsp;|&nbsp; Java DSA Enthusiast**
 
+![Profile Views](https://komarev.com/ghpvc/?username=ramgurav04&style=flat-square&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-gurav-b45453399/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramgurav/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ramgurav.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramgurav04@gmail.com)
+
 </div>
 
 - 🔭 Currently building scalable web applications using the MERN stack
 - 🌱 Mastering Data Structures & Algorithms in Java
 - 👯 Looking to collaborate on open-source projects
 - 🎯 Preparing for Software Development Engineer (SDE) roles
+- 💬 Ask me about React, Node.js/Express, or Java DSA
+- ⚡ Fun fact: I'd rather debug a legacy codebase than start from a blank file
 - 📧 Reach me at: [ramgurav04@gmail.com](mailto:ramgurav04@gmail.com)
 
 ---
@@ -54,6 +62,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ramgurav04&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgurav04&layout=compact&theme=default&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgurav04&theme=default&hide_border=true" />
+
+</div>
+
+---
+
 ## 💻 Featured Projects
 
 ### [MERN Todo Application](https://github.com/ramgurav04/mern-todo-app)
@@ -77,6 +98,22 @@ Modern portfolio showcasing projects, experience, and contact details.
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgurav04&theme=minimal&hide_border=true" width="90%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ramgurav04&theme=flat&no-frame=true&column=7&margin-w=8" />
+
 </div>
 
 ---
@@ -89,5 +126,11 @@ Modern portfolio showcasing projects, experience, and contact details.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ramgurav/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ramgurav.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramgurav04@gmail.com)
+
+</div>
+
+<div align="center">
+
+*⭐️ From [ramgurav04](https://github.com/ramgurav04) — thanks for stopping by!*
 
 </div>

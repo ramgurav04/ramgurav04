@@ -4,7 +4,7 @@ Final Year B.Sc. IT Student | Full Stack Web Developer | Java DSA Enthusiast
 
 - LinkedIn: https://www.linkedin.com/in/ram-gurav-b45453399/
 - LeetCode: https://leetcode.com/u/ramgurav/
-- Email: ramgurav04@gmail.com
+- Email: ramgurav487@gmail.com
 
 ## About
 
@@ -17,16 +17,16 @@ Final Year B.Sc. IT Student | Full Stack Web Developer | Java DSA Enthusiast
 ## Technical Skills
 
 **Languages**  
-Java, JavaScript, TypeScript, C, C++, Python, HTML5, CSS3
+Java, JavaScript, TypeScript
 
 **Frontend**  
-React, Next.js, Tailwind CSS, Bootstrap
+React, Next.js, Tailwind CSS
 
 **Backend and Databases**  
-Node.js, Express, Spring Boot, MongoDB, MySQL, PostgreSQL
+Node.js, Express, MongoDB, MySQL
 
 **Tools and Platforms**  
-Git, GitHub, Docker, Postman, VS Code
+Git, GitHub 
 
 ## Projects
 
@@ -67,6 +67,6 @@ https://github.com/ramgurav04?tab=repositories
 
 - LinkedIn: https://www.linkedin.com/in/ram-gurav-b45453399/
 - LeetCode: https://leetcode.com/u/ramgurav/
-- Email: ramgurav04@gmail.com
+- Email: ramgurav487@gmail.com
 
 From ramgurav04. Thanks for stopping by.

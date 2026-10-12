@@ -12,7 +12,7 @@ Final Year B.Sc. IT Student | Full Stack Web Developer | Java DSA Enthusiast
 - Practicing Data Structures and Algorithms in Java, including the Blind 75 set.
 - Looking to collaborate on open-source projects.
 - Preparing for Software Development Engineer (SDE) roles.
-- Reach me at ramgurav04@gmail.com.
+- Reach me at ramgurav487@gmail.com.
 
 ## Technical Skills
 
@@ -23,10 +23,10 @@ Java, JavaScript, TypeScript
 React, Next.js, Tailwind CSS
 
 **Backend and Databases**  
-Node.js, Express, MongoDB, MySQL
+Spring Boot, Node.js, Express, MongoDB, MySQL
 
 **Tools and Platforms**  
-Git, GitHub 
+Git, GitHub
 
 ## Projects
 

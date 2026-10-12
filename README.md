@@ -8,7 +8,7 @@ Final Year B.Sc. IT Student | Full Stack Web Developer | Java DSA Enthusiast
 
 ## About
 
-- Currently building AquaExpress, a Java/Spring Boot inventory and billing app, as my college OJT project.
+- Currently building AquaExpress, a Java/Spring Boot inventory and billing application, as my college OJT project.
 - Practicing Data Structures and Algorithms in Java, including the Blind 75 set.
 - Looking to collaborate on open-source projects.
 - Preparing for Software Development Engineer (SDE) roles.

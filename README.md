@@ -35,16 +35,6 @@ Smart ornamental fish farm management and wholesale e-commerce system for Piyush
 Tech Stack: JavaScript / React / Full Stack  
 https://github.com/ramgurav04/piyush-aquatic-smart-farm-management
 
-### DSA with Java
-Learning Data Structures and Algorithms from basics to advanced with Java. Includes concepts, implementations, and coding practice.  
-Tech Stack: Java  
-https://github.com/ramgurav04/dsa-with-java
-
-### Blind 75 LeetCode
-Solutions to all 75 Blind LeetCode problems, organized by category with explanations.  
-Tech Stack: Java  
-https://github.com/ramgurav04/blind-75-leetcode
-
 ### MERN Todo Project
 Full-stack MERN To-Do application with CRUD operations, REST APIs, and responsive UI.  
 Tech Stack: JavaScript, React, Node.js, Express, MongoDB  
@@ -55,20 +45,10 @@ The Basic Employee Management System React project.
 Tech Stack: JavaScript, React  
 https://github.com/ramgurav04/Employee-managment-system
 
-### JavaScript Mini Projects
-Collection of beginner-friendly JavaScript mini projects to practice DOM manipulation, API integration, and core JS concepts.  
-Tech Stack: JavaScript  
-https://github.com/ramgurav04/JavaScript-mini-Projects
-
 ### Media Search
 A modern responsive media search application built with React to search and discover videos and photos.  
 Tech Stack: JavaScript, React  
 https://github.com/ramgurav04/Media-Search
-
-### React Basic Gallery
-Simple React image gallery project demonstrating reusable components, props, state, and responsive UI.  
-Tech Stack: JavaScript, React  
-https://github.com/ramgurav04/react-basic-gallery
 
 ### React Todo with TypeScript
 Beginner-friendly To-Do list app built with React and TypeScript to practice components and state management.  

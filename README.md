@@ -2,7 +2,7 @@
 
 Final Year B.Sc. IT Student | Full Stack Web Developer | Java DSA Enthusiast
 
-- LinkedIn: https://www.linkedin.com/in/ram-gurav-b45453399/
+- LinkedIn: [https://www.linkedin.com/in/ram-gurav-b45453399](https://www.linkedin.com/in/ram-gurav-b45453399)
 - LeetCode: https://leetcode.com/u/ramgurav/
 - Email: ramgurav487@gmail.com
 

@@ -63,5 +63,3 @@ https://github.com/ramgurav04?tab=repositories
 - LinkedIn: https://www.linkedin.com/in/ram-gurav-b45453399/
 - LeetCode: https://leetcode.com/u/ramgurav/
 - Email: ramgurav487@gmail.com
-
-From ramgurav04. Thanks for stopping by.
